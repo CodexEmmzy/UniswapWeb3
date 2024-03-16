@@ -12,12 +12,12 @@ To clone and run the application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/CodexEmmzy/UniswapWeb3
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd your-repository
+   cd UniswapWeb3
    ```
 
 3. Install dependencies:
@@ -34,7 +34,7 @@ To clone and run the application locally, follow these steps:
 
 ### Project Structure
 ```
-your-repository/
+UniswapWeb3/
 ├── contracts/
 │   ├── src/
 │   ├── package.json
